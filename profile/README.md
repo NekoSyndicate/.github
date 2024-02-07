@@ -1,6 +1,6 @@
 # Welcome to Neko Syndicate 👋
 
-![Neko Syndicate Logo]([https://your-logo-url.com](https://avatars.githubusercontent.com/u/146108669?s=200&v=4))
+![Neko Syndicate Logo](https://avatars.githubusercontent.com/u/146108669?s=400&u=e0009538177e1032bd425d39098d58a1a6bde4c4&v=4)
 
 I'm a passionate software developer dedicated to delivering high-quality solutions that empower businesses and individuals.
 
